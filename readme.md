@@ -9,11 +9,11 @@
 ## Clonando repositório
 Comando git
 ```
-git clone NOME_REPOSITORIO
+git clone https://github.com/andreidoberstein/crud-tasks-api
 ```
 Acessar repositório
 ```
-cd NOME_REPOSITORIO
+cd crud-tasks-api
 ```
 Instalar pacotes da aplicação
 ```
