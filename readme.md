@@ -9,7 +9,7 @@
 ## Clonando repositório
 Comando git
 ```
-git clone https://github.com/andreidoberstein/crud-tasks-api
+git clone https://github.com/andreidoberstein/crud-tasks-api.git
 ```
 Acessar repositório
 ```
